@@ -1,4 +1,4 @@
-module github.com/GrigorianNick/DndCalendar/webserver
+module github.com/GrigorianNick/DnDCalendar/webserver
 
 go 1.21.3
 

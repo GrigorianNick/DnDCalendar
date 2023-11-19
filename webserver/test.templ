@@ -1,5 +1,11 @@
 package webserver
 
+import "github.com/GrigorianNick/DnDCalendar/calendar"
+
 templ Index(name string) {
     <div>Hello { name }</div>
+}
+
+templ Cal(Calendar c) {
+    <div>c.Years</div>
 }

@@ -1,1 +1,5 @@
 package webserver
+
+func a() {
+
+}
